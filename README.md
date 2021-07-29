@@ -89,3 +89,9 @@ Do not forget to ask:
 
 **How does the Update function work?**
 
+
+## Updated ForceField
+
+<p align="center">
+  <img src="Gifs/ForceField.gif">
+</p>
