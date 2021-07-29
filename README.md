@@ -9,6 +9,14 @@
 </p>
 
 
+
+## Updated ForceField
+
+<p align="center">
+  <img src="Gifs/ForceField.gif">
+</p>
+
+
 # Introduction:
 
 In this lab you will be introduced to Unity, a powerful games and simulation engine which facilitates the construction of rich interactive scenes.
@@ -88,10 +96,3 @@ Do not forget to ask:
 **How can I run code in Unity?**
 
 **How does the Update function work?**
-
-
-## Updated ForceField
-
-<p align="center">
-  <img src="Gifs/ForceField.gif">
-</p>
